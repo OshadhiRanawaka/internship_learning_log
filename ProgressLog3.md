@@ -1,4 +1,4 @@
-# Internship Learning Week — Progress Log (Thursday & Friday)
+# Progress Log 3 - Linux Essentials Course Continuation 
 
 ## Overview
 Continuing the Learning Week during my Internship at ProLab R, I worked through the remaining sections of the **NDG Linux Essentials** course — covering console tools, package management, development languages, security, cloud computing, and open source licensing. 
@@ -11,7 +11,7 @@ This README documents my Thursday and Friday progress and key takeaways.
 
 ## Daily Progress Log
 
-**Thursday**
+**Thursday - 6.8.2026**
 - Studied the overlap between software development and systems administration skills, and why basic programming familiarity is important for admins
 - Learned about Linux **shells** — how they accept and pass commands to the kernel — and compared the Bourne shell, C shell, and their modern successors (Bash, tcsh, ksh, zsh)
 - Covered console **text editors**: Vi/Vim and Emacs for advanced editing, and Pico/Nano for simple editing, plus why Vi proficiency matters for recovery-mode troubleshooting
@@ -19,7 +19,7 @@ This README documents my Thursday and Friday progress and key takeaways.
 - Compared the two major package management systems: **Debian** and **RPM**, including dependency tracking and root-privilege requirements
 - Explored Linux's strong support for **software development** — compiled vs. interpreted languages, C and its derivatives, Java/JVM, and scripting languages (JavaScript, Perl, PHP, Ruby, Python) and their common use cases
 
-**Friday**
+**Friday - 7.8.2026**
 - Covered core **security** concepts — the role of human error in breaches, and how cookies and third-party tracking pixels enable web tracking
 - Studied **password management** best practices: root account risks, access levels by group, password managers, and two-factor authentication (2FA)
 - Reviewed personal **protection strategies**: strong unique passwords, limiting shared information, regular updates, and firewalls (UFW/Gufw, iptables)
